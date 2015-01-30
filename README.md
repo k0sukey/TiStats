@@ -1,0 +1,1 @@
+## for [ti-stats-hook](https://github.com/k0sukey/ti-stats-hook)

@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiStats
+author: Kosuke Isobe
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiStats
+moduleid: be.k0suke.tistats
+guid: b4b35657-3a37-4aff-9d77-93a60b4f19f0
+platform: iphone
+minsdk: 3.5.0.GA
