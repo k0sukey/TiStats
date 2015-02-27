@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1BFA369-4FC1-49F0-96A6-3F29C2EE74C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiStats</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB63BBB09C4982F6E28941C7721B9DA89FA50D2B</key>
+		<string>github.com:k0sukey/TiStats.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/TiStats.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB63BBB09C4982F6E28941C7721B9DA89FA50D2B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:k0sukey/TiStats.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB63BBB09C4982F6E28941C7721B9DA89FA50D2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB63BBB09C4982F6E28941C7721B9DA89FA50D2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiStats</string>
+		</dict>
+	</array>
+</dict>
+</plist>
