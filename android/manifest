@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: TiStats
+author: Kosuke Isobe
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiStats
+moduleid: be.k0suke.tistats
+guid: 39fb9044-5a2e-4c18-b769-26edbfd12024
+platform: android
+minsdk: 3.5.0.GA
